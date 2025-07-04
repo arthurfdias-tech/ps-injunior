@@ -1,0 +1,1 @@
+Essa é a minha resolução dos desafio técnicos propostos na segunda etapa no PS 25.2 da In Junior.
