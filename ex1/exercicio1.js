@@ -5,7 +5,7 @@ let coeficienteC = parseFloat(prompt("Digite o coeficiente C: "))
 if(isNaN(coeficienteA) || isNaN(coeficienteB) || isNaN(coeficienteC)) {
     alert("Digite apenas números.")
 } else {
-    if (coeficienteA !== 0 || typeof(coeficienteA) ){
+    if (coeficienteA !== 0){
     
     let delta = (coeficienteB ** 2) - 4 * coeficienteA * coeficienteC
     let raizDelta = delta ** (1/2)
